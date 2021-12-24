@@ -1,0 +1,70 @@
+{
+  "name": "mohammad",
+  "username": "mohammad",
+  "ID": "4",
+  "password": "1234",
+  "date": null,
+  "Email": "mohammad@mohammad.com",
+  "phone": "0939",
+  "bio": "hello",
+  "noOfReports": 0,
+  "LastSeenMode": 0,
+  "isActive": true,
+  "isDeleted": false,
+  "Private": true,
+  "VisiblePhone": false,
+  "VisibleEmail": false,
+  "VisibleDate": false,
+  "LastSeen": "May 19, 2021, 6:13:24 PM",
+  "Tweets": [
+    "7",
+    "8"
+  ],
+  "TimelineTweets": [
+    "3",
+    "4"
+  ],
+  "Explorer": [],
+  "SystemNotifications": [
+    {
+      "SenderID": "2",
+      "ReceiverID": "4",
+      "Text": " started following you."
+    }
+  ],
+  "UsersNotifications": [
+    {
+      "SenderID": "5",
+      "ReceiverID": "4",
+      "Text": " requested to follow you."
+    }
+  ],
+  "statusNotifications": [
+    {
+      "SenderID": "2",
+      "ReceiverID": "4",
+      "Text": " is now in your followings list"
+    }
+  ],
+  "Requested": [
+    "5"
+  ],
+  "Followers": [
+    "2"
+  ],
+  "Followings": [
+    "2"
+  ],
+  "Blocked": [],
+  "Muted": [],
+  "messenger": {
+    "savedMessages": {
+      "UserAID": "4",
+      "UserBID": "4",
+      "Unseen": [],
+      "seen": []
+    },
+    "Chats": [],
+    "GPList": []
+  }
+}

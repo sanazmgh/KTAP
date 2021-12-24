@@ -1,0 +1,69 @@
+{
+  "name": "erfan",
+  "username": "erfan",
+  "ID": "1",
+  "password": "1234",
+  "date": null,
+  "Email": "erfan.erfan@erfan",
+  "phone": null,
+  "bio": "hi",
+  "noOfReports": 0,
+  "LastSeenMode": 0,
+  "isActive": true,
+  "isDeleted": false,
+  "Private": true,
+  "VisiblePhone": false,
+  "VisibleEmail": false,
+  "VisibleDate": false,
+  "LastSeen": "May 19, 2021, 6:10:41 PM",
+  "Tweets": [
+    "1",
+    "2"
+  ],
+  "TimelineTweets": [],
+  "Explorer": [],
+  "SystemNotifications": [
+    {
+      "SenderID": "5",
+      "ReceiverID": "1",
+      "Text": " started following you."
+    }
+  ],
+  "UsersNotifications": [],
+  "statusNotifications": [],
+  "Requested": [],
+  "Followers": [
+    "5"
+  ],
+  "Followings": [],
+  "Blocked": [],
+  "Muted": [],
+  "messenger": {
+    "savedMessages": {
+      "UserAID": "1",
+      "UserBID": "1",
+      "Unseen": [],
+      "seen": []
+    },
+    "Chats": [
+      {
+        "UserAID": "1",
+        "UserBID": "5",
+        "Unseen": [],
+        "seen": [
+          "reza at Wed May 19 13:09:05 IRDT 2021 : \nmessage 1 from reza",
+          "reza at Wed May 19 13:09:32 IRDT 2021 : \nmessage 2 from reza",
+          "erfan at Wed May 19 13:12:54 IRDT 2021 : \nmessage 3 from erfan",
+          "erfan at Wed May 19 13:13:08 IRDT 2021 : \nmessage 4 from erfan"
+        ]
+      },
+      {
+        "UserAID": "5",
+        "UserBID": "1",
+        "Unseen": [],
+        "seen": []
+      }
+    ],
+    "GPList": []
+  }
+}

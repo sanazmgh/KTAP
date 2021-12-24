@@ -1,0 +1,62 @@
+{
+  "name": "sadat",
+  "username": "sadat",
+  "ID": "2",
+  "password": "1234",
+  "date": null,
+  "Email": "sadat@sadat.sadat",
+  "phone": null,
+  "bio": "hi i\u0027m sadat",
+  "noOfReports": 0,
+  "LastSeenMode": 0,
+  "isActive": true,
+  "isDeleted": false,
+  "Private": false,
+  "VisiblePhone": false,
+  "VisibleEmail": false,
+  "VisibleDate": false,
+  "LastSeen": "May 19, 2021, 6:11:37 PM",
+  "Tweets": [
+    "3",
+    "4"
+  ],
+  "TimelineTweets": [
+    "7",
+    "8"
+  ],
+  "Explorer": [],
+  "SystemNotifications": [
+    {
+      "SenderID": "4",
+      "ReceiverID": "2",
+      "Text": " started following you."
+    }
+  ],
+  "UsersNotifications": [],
+  "statusNotifications": [
+    {
+      "SenderID": "4",
+      "ReceiverID": "2",
+      "Text": " accepted your follow request."
+    }
+  ],
+  "Requested": [],
+  "Followers": [
+    "4"
+  ],
+  "Followings": [
+    "4"
+  ],
+  "Blocked": [],
+  "Muted": [],
+  "messenger": {
+    "savedMessages": {
+      "UserAID": "2",
+      "UserBID": "2",
+      "Unseen": [],
+      "seen": []
+    },
+    "Chats": [],
+    "GPList": []
+  }
+}

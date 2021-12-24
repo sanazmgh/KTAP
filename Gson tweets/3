@@ -1,0 +1,12 @@
+{
+  "TweetID": "3",
+  "UserID": "2",
+  "date": "May 19, 2021, 6:11:55 PM",
+  "RetweetID": null,
+  "RetweetDate": null,
+  "text": "sadat1",
+  "Commented": false,
+  "Comments": [],
+  "Likes": [],
+  "Retweets": []
+}

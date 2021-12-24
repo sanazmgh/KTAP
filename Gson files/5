@@ -1,0 +1,100 @@
+{
+  "name": "reza",
+  "username": "reza",
+  "ID": "5",
+  "password": "1234",
+  "date": "Null",
+  "Email": "reza@reza.com",
+  "phone": "123456",
+  "bio": "heyyyyyy",
+  "noOfReports": 0,
+  "LastSeenMode": 0,
+  "isActive": true,
+  "isDeleted": false,
+  "Private": true,
+  "VisiblePhone": false,
+  "VisibleEmail": false,
+  "VisibleDate": false,
+  "LastSeen": "May 19, 2021, 6:15:50 PM",
+  "Tweets": [
+    "9",
+    "10",
+    "13"
+  ],
+  "TimelineTweets": [
+    "1",
+    "2"
+  ],
+  "Explorer": [],
+  "SystemNotifications": [
+    {
+      "SenderID": "6",
+      "ReceiverID": "5",
+      "Text": " started following you."
+    }
+  ],
+  "UsersNotifications": [
+    {
+      "SenderID": "2",
+      "ReceiverID": "5",
+      "Text": " requested to follow you."
+    },
+    {
+      "SenderID": "3",
+      "ReceiverID": "5",
+      "Text": " requested to follow you."
+    }
+  ],
+  "statusNotifications": [
+    {
+      "SenderID": "1",
+      "ReceiverID": "5",
+      "Text": " accepted your follow request."
+    },
+    {
+      "SenderID": "4",
+      "ReceiverID": "5",
+      "Text": " denied your follow request."
+    }
+  ],
+  "Requested": [
+    "2",
+    "3"
+  ],
+  "Followers": [
+    "6"
+  ],
+  "Followings": [
+    "1"
+  ],
+  "Blocked": [],
+  "Muted": [],
+  "messenger": {
+    "savedMessages": {
+      "UserAID": "5",
+      "UserBID": "5",
+      "Unseen": [],
+      "seen": []
+    },
+    "Chats": [
+      {
+        "UserAID": "5",
+        "UserBID": "1",
+        "Unseen": [],
+        "seen": [
+          "reza at Wed May 19 13:09:05 IRDT 2021 : \nmessage 1 from reza",
+          "reza at Wed May 19 13:09:32 IRDT 2021 : \nmessage 2 from reza",
+          "erfan at Wed May 19 13:12:54 IRDT 2021 : \nmessage 3 from erfan",
+          "erfan at Wed May 19 13:13:08 IRDT 2021 : \nmessage 4 from erfan"
+        ]
+      },
+      {
+        "UserAID": "1",
+        "UserBID": "5",
+        "Unseen": [],
+        "seen": []
+      }
+    ],
+    "GPList": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "nima",
+  "username": "nima",
+  "ID": "6",
+  "password": "1234",
+  "date": null,
+  "Email": "nima@nima.nima",
+  "phone": "123456789",
+  "bio": "hey",
+  "noOfReports": 0,
+  "LastSeenMode": 0,
+  "isActive": true,
+  "isDeleted": false,
+  "Private": false,
+  "VisiblePhone": false,
+  "VisibleEmail": false,
+  "VisibleDate": true,
+  "LastSeen": "May 19, 2021, 6:15:06 PM",
+  "Tweets": [
+    "11",
+    "12"
+  ],
+  "TimelineTweets": [
+    "9",
+    "10"
+  ],
+  "Explorer": [],
+  "SystemNotifications": [],
+  "UsersNotifications": [],
+  "statusNotifications": [
+    {
+      "SenderID": "5",
+      "ReceiverID": "6",
+      "Text": " accepted your follow request."
+    }
+  ],
+  "Requested": [],
+  "Followers": [],
+  "Followings": [
+    "5"
+  ],
+  "Blocked": [],
+  "Muted": [],
+  "messenger": {
+    "savedMessages": {
+      "UserAID": "6",
+      "UserBID": "6",
+      "Unseen": [],
+      "seen": []
+    },
+    "Chats": [],
+    "GPList": []
+  }
+}
